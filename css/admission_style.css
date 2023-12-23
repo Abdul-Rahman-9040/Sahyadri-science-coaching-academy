@@ -80,7 +80,7 @@ nav img{
 .icon{
   display:none;
   background-color: black;
-  padding: 4px;
+  padding-left: 8px;
   width: 30px;
 }
 .text-box{
